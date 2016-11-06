@@ -16,6 +16,5 @@ Para alterar/deletar/acrescentar imagens na pasta [imgs](imgs),
 
 2. Acrescentar e/ou revisar dados [nesta planilha amigável](https://docs.google.com/spreadsheets/d/1AK_GYMqoAl84nbrjbzSJXALOGKjfHlby_VOTS8tlnIM/edit#gid=0).
 
-3. Baixar a versão CSV da mesma aqui pro git, sobrescrevendo a anterior e nos comentários de *commit* resumindo o que foi feito.
-
+3. Baixar a versão CSV da mesma aqui pro git, sobrescrevendo a [img-metadata.csv](data/img-metadata.csv) anterior e nos comentários de *commit* resumindo o que foi feito.
 
