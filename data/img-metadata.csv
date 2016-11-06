@@ -1,0 +1,5 @@
+img-filename,origin-type,origin-url,license,author-username,notes-process,notes-license
+discussOKBr-logo.png,adaptation,http://www.discourse.org/images/logo.png,cc-by-sa,ppkrauss,cut and change,Conferir licença da origin-url!
+discussOKBr-logo-70px.png,resize,discussOKBr-logo.png,cc-by-sa,ppkrauss,,same as origin-url
+computer-984158_1280-v01.jpg,copy,?,?,elza,?,
+computer-984158_1280-v02.jpg,adaptation,computer-984158_1280-v01.jpg,cc-by-sa,ppkrauss,Add img by GIMP,
