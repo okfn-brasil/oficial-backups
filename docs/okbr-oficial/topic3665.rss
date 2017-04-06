@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Convenções adotadas pela OKBr</title>
+    <link>https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665</link>
+    <description>1. Tags automáticas no ambiente DiscussOKBr:  “Local Groups” e “Brasil” caracterizam o escopo OKBr.
+2. Tags reservadas ao uso oficial, por associados e conselheiros:  
+2.1. **OKBr-OFICIAL**:  indica que a discussão faz parte do “Diário Oficial da OKBr”. Tipicamente comunicados e convocações.  
+2.2  **OKBr-VOTAÇÃO**: indica que a discussão é um tópico em votação 
+oficial (não simples enquete), e que cada associado deve responder 
+declarando o seu voto (não basta apenas clicar)  
+2.3. **OKBr-PROPOSTA**: proposições de associados, de projetos, de novas 
+regras, de novos eventos, etc. para que a proposta seja registrada 
+independente de vir a ser ou não votada.
+3. Tags reservadas para a organização dos assuntos:  em minúsculas, 
+“advocacy”, “estatuto”, “evento”, “projeto”, etc. de preferência em 
+português.
+4. [Enquetes](http://blog.discourse.org/2015/08/improved-polls-in-discourse/)
+ em posts “OKBr-VOTACAO” não têm valor de voto &amp;mdash; são apenas 
+ilustrativas e para não-associados  também participarem. O que conta é 
+uma resposta com declaração de voto. No final do período, a enquete é de
+ qualquer forma encerrada. Um post final de resposta, com texto simples e
+ objetivo, do titular do tópico ou de um mediador autorizado, deve 
+consolidar os votos declarados, o quorum e o resultado final numa 
+tabela.
+
+Construído com ajuda do @solstag 2 @peter</description>
+    
+    <lastBuildDate>Fri, 18 Nov 2016 18:11:33 +0000</lastBuildDate>
+    <category>Brasil</category>
+    <atom:link href="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Convenções adotadas pela OKBr</title>
+        <dc:creator><![CDATA[@ppkrauss Peter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://discuss.okfn.org/users/ppkrauss">@ppkrauss</a> wrote:</p>
+          <blockquote>
+              <p>As mesmas tags adotadas aqui no DiscussOKBr podem ser adotadas no <a href="http://br.okfn.org/">BlogOKBr</a>. É importante portanto preservar a consistência na padronização de tags adotada. </p>
+
+<p>Como em ambos, DiscussOKBr e  BlogOKBr, outros tipos de conteúdo institucional são publicados, tais conteúdos devem também  ser categorizados pelas tags. <strong>Exemplificando</strong> para o Blog:</p>
+
+<ul>
+<li><p><a href="http://br.okfn.org/2016/09/28/convocacao-assembleia-okbr-para-aprovacao-no-cartorio/"><em>post</em> sobre de assembleia</a> é um comunicado oficial: deve receber pelo menos a tag <code>OKBr-OFICIAL</code>, e pode receber também a tag <code>assembleia</code>.</p></li>
+<li><p><a href="http://br.okfn.org/2016/11/10/okbr-participa-de-seminario-sobre-o-plano-de-dados-abertos-na-unifesp/"><em>post</em> sobre participação no Plano UNIFESP</a> é um informe institucional, deve receber pelo menos a tag <code>OKBr-OFICIAL</code>, e pode receber também a tag <code>informe</code>.</p></li>
+<li><p><a href="http://br.okfn.org/2016/10/26/grupo-cria-documento-o-futuro-das-bicicletas-em-sao-paulo-para-candidato-eleito/"><em>post</em> sobre o futuro das bicicletas</a> é mais pessoal, e mesmo tendo sido postado pelo Diretor, não se trata de conteúdo institucional. Sempre que um post expressar opinião pessoal do autor, não endossada institucionalmente, convém incluir a tag <code>opinião do associado</code> (ou simplesmente <code>opinião</code>), para destacar ao leitor de que não foi um assunto debatido ou endossado por outros associados.</p></li>
+</ul>
+
+<hr>
+
+<p>NOTA:  o espaço de comunicação com valor de "Diário Oficial da OKBr" é o DiscussOKBr. A publicação de conteúdos oficiais (tag <code>OKBr-OFICIAL</code>), não pode se restringir ao Blog, uma  chamada  equivalente (e com as mesmas tags) deve ser publicada aqui no DiscussOKBr.</p>
+          </blockquote>
+          <p><a href="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/3</link>
+        <pubDate>Fri, 18 Nov 2016 18:11:33 +0000</pubDate>
+        <guid isPermaLink="false">discuss.okfn.org-post-3665-3</guid>
+        <source url="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665.rss">Convenções adotadas pela OKBr</source>
+      </item>
+      <item>
+        <title>Convenções adotadas pela OKBr</title>
+        <dc:creator><![CDATA[@ppkrauss Peter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://discuss.okfn.org/users/ppkrauss">@ppkrauss</a> wrote:</p>
+          <blockquote>
+              <p>Sobre o uso de tags, alguns usuários podem não ter <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/2">permissão</a>, conforme <a href="https://discuss.okfn.org/t/power-to-add-new-tags-for-chapter/3930/4?u=ppkrauss">política de permissões aqui do nosso Discuss</a>  precisa ter "Trust Level 3" para Wiki e 2 para criar novas tags. Conselheiros, diretores etc. que tiverem algum problema devem requer permissão.</p>
+          </blockquote>
+          <p><a href="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/2</link>
+        <pubDate>Fri, 18 Nov 2016 17:42:17 +0000</pubDate>
+        <guid isPermaLink="false">discuss.okfn.org-post-3665-2</guid>
+        <source url="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665.rss">Convenções adotadas pela OKBr</source>
+      </item>
+      <item>
+        <title>Convenções adotadas pela OKBr</title>
+        <dc:creator><![CDATA[@arielkogan Ariel Kogan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://discuss.okfn.org/users/arielkogan">@arielkogan</a> wrote:</p>
+          <blockquote>
+              <ol>
+<li>Tags automáticas no ambiente DiscussOKBr:  “Local Groups” e “Brasil” caracterizam o escopo OKBr.</li>
+<li>Tags reservadas ao uso oficial, por associados e conselheiros:<br>2.1. <strong>OKBr-OFICIAL</strong>:  indica que a discussão faz parte do “Diário Oficial da OKBr”. Tipicamente comunicados e convocações.<br>2.2  <strong>OKBr-VOTAÇÃO</strong>: indica que a discussão é um tópico em votação <br>oficial (não simples enquete), e que cada associado deve responder <br>declarando o seu voto (não basta apenas clicar)<br>2.3. <strong>OKBr-PROPOSTA</strong>: proposições de associados, de projetos, de novas <br>regras, de novos eventos, etc. para que a proposta seja registrada <br>independente de vir a ser ou não votada.</li>
+<li>Tags reservadas para a organização dos assuntos:  em minúsculas, <br>“advocacy”, “estatuto”, “evento”, “projeto”, etc. de preferência em <br>português.</li>
+<li>
+<a href="http://blog.discourse.org/2015/08/improved-polls-in-discourse/" rel="nofollow noopener">Enquetes</a><br>em posts “OKBr-VOTACAO” não têm valor de voto — são apenas <br>ilustrativas e para não-associados  também participarem. O que conta é <br>uma resposta com declaração de voto. No final do período, a enquete é de<br>qualquer forma encerrada. Um post final de resposta, com texto simples e<br>objetivo, do titular do tópico ou de um mediador autorizado, deve <br>consolidar os votos declarados, o quorum e o resultado final numa <br>tabela.</li>
+</ol>
+
+<p>Construído com ajuda do <a class="mention" href="/users/solstag">@solstag</a> 2 <a class="mention" href="/users/peter">@peter</a></p>
+          </blockquote>
+          <p><a href="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665/1</link>
+        <pubDate>Mon, 26 Sep 2016 01:15:54 +0000</pubDate>
+        <guid isPermaLink="false">discuss.okfn.org-post-3665-1</guid>
+        <source url="https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665.rss">Convenções adotadas pela OKBr</source>
+      </item>
+  </channel>
+</rss>
