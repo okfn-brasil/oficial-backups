@@ -19,3 +19,13 @@ Para alterar/deletar/acrescentar imagens na pasta [imgs](imgs) ou [docs](docs),
 
 3. Baixar a versão CSV da mesma aqui para o *git*, sobrescrevendo a [img-metadata.csv](data/img-metadata.csv) ou [doc-metadata.csv](data/doc-metadata.csv) anteriores, e nos comentários de *commit* resumindo o que foi feito.
 
+## Diário Oficial da OKBR
+
+Todas as matérias marcadas com tag `oficial-okbr`.  A cada matéria usar a URL `https://discuss.okfn.org/t/{id}.rss`. A cada conjunto finalizado de reply-posts em `https://discuss.okfn.org/t/feed-of-new-posts-topics-replies/{id}.rss`.
+
+Exemplos: 
+
+* tópico https://discuss.okfn.org/t/4886.rss
+* replies https://discuss.okfn.org/t/feed-of-new-posts-topics-replies/4886.rss
+* apêndices (app1, app2, etc.) obtidos de "save as EPUB" no GDocs
+* vídeos: backups no https://github.com/okfn-brasil/videos
