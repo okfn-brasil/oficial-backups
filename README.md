@@ -29,3 +29,6 @@ Exemplos:
 * replies https://discuss.okfn.org/t/feed-of-new-posts-topics-replies/4886.rss
 * apêndices (app1, app2, etc.) obtidos de "save as EPUB" no GDocs
 * vídeos: backups no https://github.com/okfn-brasil/videos
+
+Checksums: depois de atualizado, `cd docs/okbr-oficial`, usar `sha256sum * | grep -v sha256sum.txt > sha256sum.txt`
+
