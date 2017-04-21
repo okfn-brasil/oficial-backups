@@ -1,0 +1,6 @@
+tag,aplicabilidade,Descrição,origem,url-origem
+okbr-oficial,dados e conteúdos,indica que a discussão faz parte do “Diário Oficial da OKBr”. Tipicamente comunicados e convocações.,Apresentacao do novo DOO no DiscussOKBr,https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665
+okbr-votacao,dados e conteúdos,"indica que o objeto é um tópico em votação oficial (não simples enquete), e que cada associado deve responder.",Apresentacao do novo DOO no DiscussOKBr,https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665
+okbr-proposta,dados e conteúdos,"proposições de associados, de projetos, de novas regras, de novos eventos, etc. para que a proposta seja registrada independente de vir a ser ou não votada.",Apresentacao do novo DOO no DiscussOKBr,https://discuss.okfn.org/t/convencoes-adotadas-pela-okbr/3665
+prj-gastos_abertos,dados e conteúdos,indica item oficial do projeto Gastos Abertos ou seu programa de continuidade.,uso no DiscussOKBr,https://discuss.okfn.org/tags/prj-gastos_abertos
+prj-escola_dados,dados e conteúdos,"indica item oficial do ""programa Escola de Dados""",aguardando uso,
