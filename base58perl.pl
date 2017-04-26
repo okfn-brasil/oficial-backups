@@ -116,8 +116,10 @@ sub encodebase58fromhex {
 	return $std_bitcoin_address;
 }
 
+$shafilename = "sha3-256sum.b58btc.txt";
 
 if ($isList) {
+	print STDERR "\n-- construindo verificadores SHA3... aguarde.\n";
 	my $OUT = '';
 	my @cksums= `sha3sum -a 256 * | grep -v sha3-256sum`;
 	chomp @cksums;
@@ -130,11 +132,10 @@ if ($isList) {
 			$OUT .= "$p$enc  $2\n";
 		} else { print "ERROR: wrong input line = '$_'\n";}
 	}
-	open my $fp, '>', "sha3-256sum.b58btc.txt" or die $!;
-
+	open my $fp, '>', $shafilename or die $!;
 	print $fp $OUT;
+	print STDERR "\n-- arquivo '$shafilename' gerado com sucesso, confira\n";
 
-## .. e option que permite indicar file especifico para converter
 } else {
 	my $str = do { local $/; <STDIN> };
 	my $reencoded_base58 = encodebase58fromhex($str);
