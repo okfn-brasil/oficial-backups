@@ -116,7 +116,7 @@ sub encodebase58fromhex {
 	return $std_bitcoin_address;
 }
 
-$shafilename = "sha3-256sum.b58btc.txt";
+my $shafilename = "sha3-256sum.b58btc.txt";
 
 if ($isList) {
 	print STDERR "\n-- construindo verificadores SHA3... aguarde.\n";
