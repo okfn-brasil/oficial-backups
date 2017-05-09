@@ -2,7 +2,7 @@
 
 Subsídios para o site e o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr) e o Diário Oficial da Organização.
 
-# Objetivos
+## Objetivos
 Reter, com integridade e autenticidade garantidos, cópias de dados oficiais, jurídicos e administrativos da OKBr. O repositório tem como finalidade armazenar:
 
 * metadados e indicativos de licenças e créditos das publicações da OKBr (blog, DiscussOKBr, Facebook e canal Medium).
@@ -13,7 +13,7 @@ Reter, com integridade e autenticidade garantidos, cópias de dados oficiais, ju
 
 Dados e conteúdos que satisfaçam esses critérios, mas por seu tamanho (mais de ~200Mb) não puderem ser mantidos neste repositório, devem ser armazenados no [okfn-brasil/videos](https://github.com/okfn-brasil/videos).
 
-# Procedimentos
+## Procedimentos
 
 Para apenas revisar a planilha de dados [img-metadata.csv](data/img-metadata.csv) ou [doc-metadata.csv](data/doc-metadata.csv),
 
@@ -30,7 +30,7 @@ Para alterar/deletar/acrescentar imagens na pasta [imgs](imgs) ou [docs](docs),
 
 3. Baixar a versão CSV da mesma aqui para o *git*, sobrescrevendo a [img-metadata.csv](data/img-metadata.csv) ou [doc-metadata.csv](data/doc-metadata.csv) anteriores, e nos comentários de *commit* resumindo o que foi feito.
 
-## Diário Oficial da OKBR
+### Diário Oficial da OKBR
 
 Todas as matérias marcadas com tag `oficial-okbr`.  A cada matéria usar a URL `https://discuss.okfn.org/t/{id}.rss`. A cada conjunto finalizado de reply-posts em `https://discuss.okfn.org/t/feed-of-new-posts-topics-replies/{id}.rss`.
 
@@ -41,7 +41,7 @@ Exemplos:
 * apêndices (app1, app2, etc.) obtidos de "save as EPUB" no GDocs
 * vídeos: backups no https://github.com/okfn-brasil/videos
 
-## Checksums
+### Checksums
 Uso obrigatório em todas as pastas. Depois de atualizado com novos arquivos, antes de fazer o `git add` da pasta alterada, rodar `base58perl.pl` na pasta. Exemplo:
 
 ```sh
