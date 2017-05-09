@@ -1,6 +1,17 @@
 # discusOKBr-assets
 
-Subsídios para o site e o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr), principalmente códigos-fontes de ilustrações (para constar origem ou licenças), e anexos.
+Subsídios para o site e o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr) e o Diário Oficial da Organização.
+
+# Objetivos
+Reter, com integridade e autenticidade garantidos, cópias de dados oficiais, jurídicos e administrativos da OKBr. O repositório tem como finalidade armazenar:
+
+* metadados e indicativos de licenças e créditos das publicações da OKBr (blog, DiscussOKBr, Facebook e canal Medium).
+* códigos-fonte de ilustrações (para constar origem ou licenças), e de anexos (ex. PDFs originais).
+* dados e contedos fiscais (ex. notas fiscais eletrônicas, romaneios e faturas).
+* metadados relativos ao "patrimônio da OKBr" e à infraestrutura de sua manutenção.
+* backups dos conteúdos oficiais:  Diário Oficial da Organização (arquivos RSS do Discourse) e Blog (arquivos XML RSS do Wordpress).
+
+Dados e conteúdos que satisfaçam esses critérios, mas por seu tamanho (mais de ~200Mb) não puderem ser mantidos neste repositório, devem ser armazenados no [okfn-brasil/videos](https://github.com/okfn-brasil/videos).
 
 # Procedimentos
 
