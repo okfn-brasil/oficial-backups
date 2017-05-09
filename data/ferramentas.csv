@@ -1,0 +1,18 @@
+Tipo da Ferramenta,Status,Solução atual,Tecnologia,Servidor,Responsável,Licença,Ultima atualização
+Blog br.okfn.org,em uso,Wordpress,PHP,br.okfn.org,OKCentral,GPLv2,2015-05
+Blog Ciência Aberta,em uso,Wordpress,PHP,cienciaaberta.net,OKBR,GPLv2,2015-05
+Blog MIRA,em uso,Wordpress,PHP,mira.org.br,OKBR,GPLv2,2015-05
+Compartilhamentos de Arquivos,em uso,Google Drive,(privado),drive.google.com,Google,Terms of Service,2015-05
+Documentos txt com edição colaborativa,em uso,Etherpad,Javascript e cia,pad.okfn.org,OKCentral,Apache License 2.0,2015-05
+Edição colaborativa de documentos texto,em uso,Google Docs,(privado),drive.google.com,Google,Terms of Service,2015-05
+Edição colaborativa de planilhas,em uso,Google Docs,(privado),drive.google.com,Google,Terms of Service,2015-05
+Hospedagem dos repositórios Git,em uso,Github,git,github.com,Github Inc.,Terms of Service,2015-05
+Lista de emails OKFN,em uso,Mailman,Python,lists.okfn.org,OKCentral,GPL,2015-05
+Servidor de emails,em uso,Postfix,Postfix,okfn.org.br,OKBR,IBM Public License,2015-05
+Wiki,em uso,MediaWiki,PHP e MySQL,wiki.okfn.org,OKCentral,GPLv2,2015-05
+Gestão Centralizada de Usuários,opção,OpenLDAP,C,,,OpenLDAP Public License,2015-05
+Interface para gestão dos usuários do LDAP,opção,GOsa,PHP,,,GPLv2,2015-05
+Interface para gestão dos usuários do LDAP,opção,phpLdapAdmin,PHP,,,GPLv2,2015-05
+Interface para gestão dos usuários do LDAP,opção,Apache Directory Studio,"""Eclipse""",,,Apache,2015-05
+Planilha Eletrônica Online,opção,EtherCalc,"NodeJs <Redis opcional, mas preferencial>",,,Common Public Attribution License (CPAL),2015-05
+Versionamento de código,opção,GitLab-CE,Ruby 2.0 ou 2.1,,,MIT,2015-05

@@ -1,0 +1,7 @@
+IP,HOST,Custo/mês,Data de início,Memória,Disco,Domínios,Verba,Serviços,Admins,Ultima atualização
+146.185.161.184,DigitalOcean,"U$5,00",nov/2013,512MB,20GB,okfn.org.br,OKBR (overheads),Redirect dos emails,everton137,2015-05
+188.226.132.191,DigitalOcean,"U$10,00",fev/2014,1GB,20GB,"cienciaaberta.net, cuidando.org.br, gastosabertos.org, trombone",Inesc (Cuidando),Wordpress,"Raniere, Edgar, Andrés, everton137",2015-05
+107.170.140.126,DigitalOcean,"U$20,00",,2GB,40GB,"vaimudar.org, dialogando.org",Vai Mudar/Eu Voto,Wordpress,"Edgar, everton137",2015-05
+37.139.25.4,DigitalOcean,"U$20,00",,1GB,30GB,democracia.vaimudar.org,Vai Mudar/Eu Voto,DemocracyOS,Edgar,2015-05
+198.211.121.7,DigitalOcean,"U$10,00",,1GB,30GB,queremossaber.org.br,OKBr (overheads),Alavateli (Rails),everton137,2015-05
+95.85.20.19,DigitalOcean,"U$10,00",,1GB,30GB,mira.org.br,Mira,Wordpress,everton137,2015-05
