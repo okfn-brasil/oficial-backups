@@ -41,5 +41,12 @@ Exemplos:
 * apêndices (app1, app2, etc.) obtidos de "save as EPUB" no GDocs
 * vídeos: backups no https://github.com/okfn-brasil/videos
 
-Checksums: depois de atualizado, `cd docs/okbr-oficial`, usar `sha256sum * | grep -v sha256sum.txt > sha256sum.txt`
+## Checksums
+Uso obrigatório em todas as pastas. Depois de atualizado com novos arquivos, antes de fazer o `git add` da pasta alterada, rodar `base58perl.pl` na pasta. Exemplo:
+
+```sh
+cd docs/okbr-oficial
+../../base58perl.pl
+```
+As justificativas detalhadas para o uso deste algoritmo de *checksum*  se encontram [descritas na Wiki](https://github.com/okfn-brasil/discussOKBr-assets/wiki/Checksums).
 
