@@ -7,28 +7,28 @@
 %  any similar purpose.
 %  2017-05-10 15:15:10 (BRT -03:00)
 
-domain:      ok.org.br
+domain:      okfn.org.br
 owner:       Open Knowledge Foundation Brasil
-ownerid:     19.131.243/0001-97
+ownerid:     12.031.458/0001-97
 responsible: Ariel Kogan
 country:     BR
 owner-c:     EVZAL3
 admin-c:     EVZAL3
 tech-c:      EVZAL3
 billing-c:   EVZAL3
-nserver:     d.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-nserver:     e.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-dsrecord:    27383 RSASHA1 69AF9768C2F92FB6A7BFAE356EE6B102541874BB
-dsstatus:    20170510 DSOK
-dslastok:    20170510
+nserver:     ns1.digitalocean.com
+nsstat:      20170509 AA
+nslastaa:    20170509
+nserver:     ns2.digitalocean.com
+nsstat:      20170509 AA
+nslastaa:    20170509
+nserver:     ns3.digitalocean.com
+nsstat:      20170509 AA
+nslastaa:    20170509
 saci:        yes
-created:     20140922 #13353652
-changed:     20170407
-expires:     20190922
+created:     20130618 #11531769
+changed:     20160618
+expires:     20200618
 status:      published
 
 nic-hdl-br:  EVZAL3

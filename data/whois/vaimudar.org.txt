@@ -1,0 +1,62 @@
+Domain Name: VAIMUDAR.ORG
+Registry Domain ID: D172574484-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2016-05-14T00:20:07Z
+Creation Date: 2014-05-10T14:54:44Z
+Registry Expiry Date: 2017-05-10T14:54:44Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C138791991-LROR
+Registrant Name: Everton Alvarenga
+Registrant Organization: Open Knowledge Brasil
+Registrant Street: Rua Peixo Gomide
+Registrant City: Sao Paulo
+Registrant State/Province: SP
+Registrant Postal Code: 01409-000
+Registrant Country: BR
+Registrant Phone: +55.11992425348
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: contato@okfn.org.br
+Registry Admin ID: C138791991-LROR
+Admin Name: Everton Alvarenga
+Admin Organization: Open Knowledge Brasil
+Admin Street: Rua Peixo Gomide
+Admin City: Sao Paulo
+Admin State/Province: SP
+Admin Postal Code: 01409-000
+Admin Country: BR
+Admin Phone: +55.11992425348
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: contato@okfn.org.br
+Registry Tech ID: C138791991-LROR
+Tech Name: Everton Alvarenga
+Tech Organization: Open Knowledge Brasil
+Tech Street: Rua Peixo Gomide
+Tech City: Sao Paulo
+Tech State/Province: SP
+Tech Postal Code: 01409-000
+Tech Country: BR
+Tech Phone: +55.11992425348
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: contato@okfn.org.br
+Name Server: NS.PHX3.NEARLYFREESPEECH.NET
+Name Server: NS.PHX5.NEARLYFREESPEECH.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-05-10T18:14:11Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

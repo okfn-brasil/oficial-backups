@@ -5,30 +5,30 @@
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2017-05-10 15:15:10 (BRT -03:00)
+%  2017-05-10 15:15:09 (BRT -03:00)
 
-domain:      ok.org.br
+domain:      governoaberto.org.br
 owner:       Open Knowledge Foundation Brasil
 ownerid:     19.131.243/0001-97
 responsible: Ariel Kogan
 country:     BR
 owner-c:     EVZAL3
 admin-c:     EVZAL3
-tech-c:      EVZAL3
+tech-c:      PEKRA9
 billing-c:   EVZAL3
-nserver:     d.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-nserver:     e.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-dsrecord:    27383 RSASHA1 69AF9768C2F92FB6A7BFAE356EE6B102541874BB
-dsstatus:    20170510 DSOK
-dslastok:    20170510
+nserver:     a.sec.dns.br
+nsstat:      20170509 AA
+nslastaa:    20170509
+nserver:     b.sec.dns.br
+nsstat:      20170509 AA
+nslastaa:    20170509
+dsrecord:    13216 RSASHA1 94E0C94E03D38FA15DABF6A9B009E25B15025344
+dsstatus:    20170509 DSOK
+dslastok:    20170509
 saci:        yes
-created:     20140922 #13353652
-changed:     20170407
-expires:     20190922
+created:     20161024 #16267161
+changed:     20170505
+expires:     20181024
 status:      published
 
 nic-hdl-br:  EVZAL3
@@ -37,6 +37,13 @@ e-mail:      everton137@gmail.com
 country:     BR
 created:     20130309
 changed:     20170314
+
+nic-hdl-br:  PEKRA9
+person:      Peter Krauss
+e-mail:      ppkrauss@gmail.com
+country:     BR
+created:     20160506
+changed:     20160506
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br

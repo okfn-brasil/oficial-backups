@@ -1,0 +1,62 @@
+Domain Name: DIALOGANDO.ORG
+Registry Domain ID: D173141839-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2016-07-06T10:35:01Z
+Creation Date: 2014-06-30T12:55:34Z
+Registry Expiry Date: 2017-06-30T12:55:34Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C67385475-LROR
+Registrant Name: Edgar Alvarenga
+Registrant Organization: n/a
+Registrant Street: Rua dos Pombos
+Registrant City: Sao Paulo
+Registrant State/Province: SP
+Registrant Postal Code: 00000-000
+Registrant Country: BR
+Registrant Phone: +11.30918758
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: e@vaz.io
+Registry Admin ID: C67385475-LROR
+Admin Name: Edgar Alvarenga
+Admin Organization: n/a
+Admin Street: Rua dos Pombos
+Admin City: Sao Paulo
+Admin State/Province: SP
+Admin Postal Code: 00000-000
+Admin Country: BR
+Admin Phone: +11.30918758
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: e@vaz.io
+Registry Tech ID: C67385475-LROR
+Tech Name: Edgar Alvarenga
+Tech Organization: n/a
+Tech Street: Rua dos Pombos
+Tech City: Sao Paulo
+Tech State/Province: SP
+Tech Postal Code: 00000-000
+Tech Country: BR
+Tech Phone: +11.30918758
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: e@vaz.io
+Name Server: NS.PHX4.NEARLYFREESPEECH.NET
+Name Server: NS.PHX8.NEARLYFREESPEECH.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-05-10T18:14:08Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

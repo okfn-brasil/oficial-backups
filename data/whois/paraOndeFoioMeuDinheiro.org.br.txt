@@ -1,0 +1,51 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-05-10 15:15:10 (BRT -03:00)
+
+domain:      paraondefoiomeudinheiro.org.br
+owner:       Instituto São Paulo Sustentável
+ownerid:     08.684.178/0001-00
+responsible: Claudia Cabilio
+country:     BR
+owner-c:     WMK15
+admin-c:     WMK15
+tech-c:      TBR
+billing-c:   WMK15
+nserver:     emily.ns.cloudflare.com
+nsstat:      20170508 AA
+nslastaa:    20170508
+nserver:     graham.ns.cloudflare.com
+nsstat:      20170508 AA
+nslastaa:    20170508
+saci:        yes
+created:     20121023 #10652311
+changed:     20161025
+expires:     20171023
+status:      published
+
+nic-hdl-br:  WMK15
+person:      Walter Meyer Karl
+e-mail:      walter@knet.eti.br
+country:     BR
+created:     20060310
+changed:     20170323
+
+nic-hdl-br:  TBR
+person:      Thiago Berlitz Rondon
+e-mail:      thiago.rondon@gmail.com
+country:     BR
+created:     19980316
+changed:     20160101
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

@@ -1,0 +1,54 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-05-10 15:15:10 (BRT -03:00)
+
+domain:      queremossaber.org.br
+owner:       Jucamaria educação e cultura
+ownerid:     11.157.554/0001-13
+responsible: André Cobbett Stael Cosme
+country:     BR
+owner-c:     PCM157
+admin-c:     PCM157
+tech-c:      VMPSB
+billing-c:   PCM157
+nserver:     a.sec.dns.br
+nsstat:      20170507 AA
+nslastaa:    20170507
+nserver:     c.sec.dns.br
+nsstat:      20170507 AA
+nslastaa:    20170507
+dsrecord:    57272 RSASHA1 8286CA9F1503D2B4967096A2B92D06FF22CFF66A
+dsstatus:    20170507 DSOK
+dslastok:    20170507
+saci:        yes
+created:     20111101 #9055012
+changed:     20151109
+expires:     20171101
+status:      published
+
+nic-hdl-br:  PCM157
+person:      Pedro Cobbett Stael Markun
+e-mail:      pedro@markun.com.br
+country:     BR
+created:     20021022
+changed:     20160204
+
+nic-hdl-br:  VMPSB
+person:      Vitor Marcio Paiva de Sousa Baptista
+e-mail:      vitor@vitorbaptista.com
+country:     BR
+created:     20120905
+changed:     20120905
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

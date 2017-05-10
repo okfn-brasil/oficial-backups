@@ -1,0 +1,61 @@
+Domain Name: oficial.news
+Registry Domain ID: 224ec5875f8844dfa5d353dfda7eec02-RSIDE
+Registrar WHOIS Server: name.com/whois_result
+Registrar URL: http://www.name.com
+Updated Date: 2017-04-28T20:20:13Z
+Creation Date: 2017-03-24T12:33:22Z
+Registry Expiry Date: 2018-03-24T12:33:22Z
+Registrar: Name.com, inc.
+Registrar IANA ID: 625
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: cb99b9d3760a4326843cab7b9611ac8f-RSIDE
+Registrant Name: Peter Krauss
+Registrant Organization: OPEN KNOWLEDGE FOUNDATION BRASIL
+Registrant Street: CNPJ 19.131.243/0001-97
+Registrant City: S?o Paulo
+Registrant State/Province: S?o Paulo
+Registrant Postal Code: 04633-050
+Registrant Country: BR
+Registrant Phone: +55.11965963422
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: peter@yellowtown.org
+Registry Admin ID: cb99b9d3760a4326843cab7b9611ac8f-RSIDE
+Admin Name: Peter Krauss
+Admin Organization: OPEN KNOWLEDGE FOUNDATION BRASIL
+Admin Street: CNPJ 19.131.243/0001-97
+Admin City: S?o Paulo
+Admin State/Province: S?o Paulo
+Admin Postal Code: 04633-050
+Admin Country: BR
+Admin Phone: +55.11965963422
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: peter@yellowtown.org
+Registry Tech ID: cb99b9d3760a4326843cab7b9611ac8f-RSIDE
+Tech Name: Peter Krauss
+Tech Organization: OPEN KNOWLEDGE FOUNDATION BRASIL
+Tech Street: CNPJ 19.131.243/0001-97
+Tech City: S?o Paulo
+Tech State/Province: S?o Paulo
+Tech Postal Code: 04633-050
+Tech Country: BR
+Tech Phone: +55.11965963422
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: peter@yellowtown.org
+Name Server: ns2.digitalocean.com
+Name Server: ns1.digitalocean.com
+Name Server: ns3.digitalocean.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2017-05-10T18:12:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Users accessing the Rightside WHOIS service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: Allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers. Enable high volume, automated, electronic processes that send queries or data to the systems of Rightside or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Rightside Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources.

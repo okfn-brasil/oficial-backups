@@ -5,30 +5,27 @@
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2017-05-10 15:15:10 (BRT -03:00)
+%  2017-05-10 15:16:34 (BRT -03:00)
 
-domain:      ok.org.br
+domain:      votolegal.org.br
 owner:       Open Knowledge Foundation Brasil
 ownerid:     19.131.243/0001-97
 responsible: Ariel Kogan
 country:     BR
 owner-c:     EVZAL3
 admin-c:     EVZAL3
-tech-c:      EVZAL3
-billing-c:   EVZAL3
-nserver:     d.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-nserver:     e.sec.dns.br
-nsstat:      20170510 AA
-nslastaa:    20170510
-dsrecord:    27383 RSASHA1 69AF9768C2F92FB6A7BFAE356EE6B102541874BB
-dsstatus:    20170510 DSOK
-dslastok:    20170510
+tech-c:      TBR
+billing-c:   TBR
+nserver:     emily.ns.cloudflare.com
+nsstat:      20170508 AA
+nslastaa:    20170508
+nserver:     graham.ns.cloudflare.com
+nsstat:      20170508 AA
+nslastaa:    20170508
 saci:        yes
-created:     20140922 #13353652
+created:     20160512 #15583543
 changed:     20170407
-expires:     20190922
+expires:     20190512
 status:      published
 
 nic-hdl-br:  EVZAL3
@@ -37,6 +34,13 @@ e-mail:      everton137@gmail.com
 country:     BR
 created:     20130309
 changed:     20170314
+
+nic-hdl-br:  TBR
+person:      Thiago Berlitz Rondon
+e-mail:      thiago.rondon@gmail.com
+country:     BR
+created:     19980316
+changed:     20160101
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
