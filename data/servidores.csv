@@ -1,8 +1,8 @@
-IP_label,IP,HOST,US$/mês,DataInicio,Memória,Disco,Domínios,Verba,Serviços,Admins,Ultima atualização
-dev.euvoto.org,45.55.181.61,DigitalOcean,20,2015-03,2GB,40GB,euvoto.org,,,,2015-05
-euvoto.org,107.170.140.126,DigitalOcean,20,2014-02,2GB,40GB,"vaimudar.org, dialogando.org",Vai Mudar/Eu Voto,Wordpress,"Edgar, everton137",2015-05
-okfnbr01,146.185.161.184,DigitalOcean,5,2013-11,512MB,20GB,okfn.org.br,OKBR (overheads),Redirect dos emails,everton137,2015-05
-okfnbr02,188.226.132.191,DigitalOcean,10,2014-02,1GB,20GB,"cienciaaberta.net, cuidando.org.br, gastosabertos.org, trombone",Inesc (Cuidando),Wordpress,"Raniere, Edgar, Andrés, everton137",2015-05
-okfnbr03,198.211.121.7,DigitalOcean,10,2014-02,1GB,30GB,queremossaber.org.br,OKBr (overheads),Alavateli (Rails),everton137,2015-05
-okfnbr04,37.139.25.4,DigitalOcean,20,2014-02,1GB,30GB,democracia.vaimudar.org,Vai Mudar/Eu Voto,DemocracyOS,Edgar,2015-05
-okfnbr05,95.85.20.19,DigitalOcean,10,2014-02,1GB,30GB,mira.org.br,Mira,Wordpress,everton137,2015-05
+IP_label,IP,HOST,US$/mês,DataInicio,RAM_GB,Disco_GB,Domínios,Verba,Serviços,Admins,Ultima atualização
+dev.euvoto.org,45.55.181.61,DigitalOcean,20,2015-03,2,40,euvoto.org,,?,,2016-05
+euvoto.org,107.170.140.126,DigitalOcean,20,2014-02,2,40,"vaimudar.org, dialogando.org",Vai Mudar/Eu Voto,Wordpress,"Edgar, everton137",2016-05
+okfnbr01,146.185.161.184,DigitalOcean,5,2013-11,"0,5",20,okfn.org.br,OKBR (overheads),Redirect dos emails,everton137,2016-05
+okfnbr02,188.226.132.191,DigitalOcean,20,2014-02,2,20,"cienciaaberta.net, cuidando.org.br, gastosabertos.org, trombone",Inesc (Cuidando),Wordpress,"Raniere, Edgar, Andrés, everton137",2016-05
+okfnbr03,198.211.121.7,DigitalOcean,10,2014-02,1,30,queremossaber.org.br,OKBr (overheads),Alavateli (Rails),everton137,2016-05
+okfnbr04,37.139.25.4,DigitalOcean,20,2014-02,2,30,democracia.vaimudar.org,Vai Mudar/Eu Voto,DemocracyOS,Edgar,2016-05
+okfnbr05,95.85.20.19,DigitalOcean,10,2014-02,1,30,mira.org.br,Mira,Wordpress,everton137,2016-05
