@@ -121,7 +121,7 @@ my $shafilename = "sha3-256sum.b58btc.txt";
 if ($isList) {
 	print STDERR "\n-- construindo verificadores SHA3... aguarde.\n";
 	my $OUT = '';
-	my @cksums= `sha3sum -a 256 * | grep -v sha3-256sum`;
+	my @cksums= `sha3sum -a 256 *.* | grep -v sha3-256sum`; # only file.ext, no folders
 	chomp @cksums;
 	foreach(@cksums) {  # old <STDIN>
 		if (/^([a-fA-F0-9]+)\s+(.+)$/) {
