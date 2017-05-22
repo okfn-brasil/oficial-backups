@@ -1,0 +1,45 @@
+mail_domain,mail_status,user,userIsMembro,userAdminType
+escoladedados.org,ACTIVE,Everton Zanella Alvarenga,X,NONE
+escoladedados.org,ACTIVE,Juan Torres,,NONE
+escoladedados.org,ACTIVE,Marco Túlio Pires,,NONE
+escoladedados.org,ACTIVE,Natália Mazotte,X,DELEGATED_ADMIN
+ok.org.br,ACTIVE,Anna Lívia Arida,X,NONE
+ok.org.br,ACTIVE,Antonio Vitor Rodrigues,X,NONE
+ok.org.br,ACTIVE,Ariel Kogan,X,SUPER_ADMIN
+ok.org.br,ACTIVE,Arquivo OKBr,,NONE
+ok.org.br,ACTIVE,Augusto  Herrmann,,NONE
+ok.org.br,ACTIVE,Bruna Santos,X,NONE
+ok.org.br,ACTIVE,Carlos Andrade,,NONE
+ok.org.br,ACTIVE,Carolina Rossini,X,NONE
+ok.org.br,ACTIVE,Célio da Costa Filho,X,NONE
+ok.org.br,ACTIVE,Denis Russo Burgierman,,NONE
+ok.org.br,ACTIVE,Edgar Zanella Alvarenga,,NONE
+ok.org.br,ACTIVE,Elza Albuquerque,,NONE
+ok.org.br,ACTIVE,Everton Zanella Alvarenga,X,SUPER_ADMIN
+ok.org.br,ACTIVE,Fernando Nascimento da Silva,,NONE
+ok.org.br,ACTIVE,Filippe Barros,X,NONE
+ok.org.br,ACTIVE,Flavia Scabin,,NONE
+ok.org.br,ACTIVE,Heloisa Pait,X,NONE
+ok.org.br,ACTIVE,Isis Reis,,NONE
+ok.org.br,ACTIVE,José Marcelo Zacchi,,NONE
+ok.org.br,ACTIVE,Lucas Ansei,,NONE
+ok.org.br,ACTIVE,Luciano Santos,,NONE
+ok.org.br,ACTIVE,Natália Mazotte,X,NONE
+ok.org.br,ACTIVE,Neide De Sordi,X,NONE
+ok.org.br,ACTIVE,Pedro Markun,,NONE
+ok.org.br,ACTIVE,Peter Krauss,X,SUPER_ADMIN
+ok.org.br,ACTIVE,Rafael Poço,,NONE
+ok.org.br,ACTIVE,Rodrigo Bandeira,X,NONE
+ok.org.br,ACTIVE,Salma Luise de Goes Gabriel,,NONE
+ok.org.br,ACTIVE,Sergio Spagnuolo,,NONE
+ok.org.br,ACTIVE,Sibi OKBR-GA,,NONE
+ok.org.br,ACTIVE,Thiago Rondon,X,SUPER_ADMIN
+ok.org.br,ACTIVE,Tiago Cardieri,X,NONE
+ok.org.br,ACTIVE,Vagner Diniz,,NONE
+ok.org.br,ACTIVE,Yaso Cordova,X,NONE
+ok.org.br,SUSPENDED,Emerson Marques Pedro,,NONE
+ok.org.br,SUSPENDED,Fabiano Angelico,,NONE
+ok.org.br,SUSPENDED,Gisele Craveiro,X,NONE
+ok.org.br,SUSPENDED,Gustavo Sales,,NONE
+ok.org.br,SUSPENDED,Luiz Armesto,,NONE
+ok.org.br,SUSPENDED,Renata Aquino,X,NONE
