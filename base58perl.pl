@@ -2,11 +2,16 @@
 use warnings;
 use strict;
 
-# Converts a hexadecimal string into a Bitcoin-base58 string.
-# Adapted from http://lenschulwitz.com/b58/base58perl.txt 
-# Validate with http://lenschulwitz.com/base58
-# Code validates, decodes, and encodes bitcoin addresses.
-# Author: Len Schulwitz + friends at http://rosettacode.org/wiki/Bitcoin/address_validation
+##
+# Generates all SHA3-256 checksums of local folder *.* files; sha3-256sum.b58btc.txt generator.
+#
+# Used for long-term digital preservation and integrity ensurance.
+# Used for SHA3 calculations the standard sha3sum, http://manpages.ubuntu.com/manpages/xenial/man1/sha3sum.1p.html
+# b58btc converts a hexadecimal string into a Bitcoin-base58 string, dapted from http://lenschulwitz.com/b58/base58perl.txt 
+#
+# this Author: ppkrauss 2017
+# b58btc Author: Len Schulwitz + friends at http://rosettacode.org/wiki/Bitcoin/address_validation
+#
 
 my $isList = ($#ARGV>=0 && $ARGV[0] eq "string")? 0: 1; # 'checksum' (dafault) or 'string'
 
