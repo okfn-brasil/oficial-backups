@@ -1,5 +1,6 @@
+C92xWsjZRNESgQW9exzCkoXf22aY8unByUYkSRHbyduE  _generator.sh
 9qR7fPzkQVKZ5afUF9mcsnQKgxSqcz9K9JNUDTazzeu1  cienciaaberta.net.txt
-7dbMHJ3wdgE9te1u83uYHgmhxbBJuGKRZ5qrWxF5ajVK  cuidando.org.br.txt
+8LaP7Po2hcN834H8L4QkUgu8kQ6NdtCQHuo2daZgW7Vh  cuidando.org.br.txt
 15VBVtJBwJR9ysZJW6eD5r4Z9gVZMokgXAerJF1npFBd  dadosabertos.org.txt
 GbMn6nMrj2zBV2FtKyfogheoaoWm6vF4s7WXz4J6mUmF  dialogando.org.txt
 9HCVdW3hFPvztoJVCSchxMFXz99U7pkjmTmVRkr3XRrP  escolaDeDados.org.txt
@@ -9,7 +10,7 @@ GbMn6nMrj2zBV2FtKyfogheoaoWm6vF4s7WXz4J6mUmF  dialogando.org.txt
 58qFjkqFoMiV699zswugzujHiA5eDx5EE3vBySm1HE9E  mira.org.br.txt
 CwhCdHiMq8Beefvh11TTx6J9EbHtMaRUALpntJn1hhtU  mootiro.org.txt
 H4pEfb4gw9krfp89ZcN8G4MAL6qfLbrezurXVK8Y2fJ3  oficial.news.txt
-63r3bVEP5hySPPQXHUyqP6zUktmxfSKhFJ7jPTnSoFVb  ok.org.br.txt
+5N5VB3uZqCuaXE41Aj7nadFS8bzJR2EujrQ1xF564L9s  ok.org.br.txt
 F5BWoUgwNqMJb7t1fSDykUPGjwE7gxvBULsG9Nr9KEnv  okfn.org.br.txt
 1cnqm9LvVx5KWsKCY1KNaDUg2RJfZf17TU113ogo52ip  paraOndeFoioMeuDinheiro.org.br.txt
 AnGB1ow5yazTm58Qxpf3cWgCtnT8SsUjVnUogstoYxvV  queremossaber.org.br.txt
