@@ -1,0 +1,162 @@
+
+'''Complemento ao Estatuto'': Legislação federal regulamentando o funionamento das associações: Constituição e Código Civil.
+
+== Código Civil ==
+Cópia dos fragmentos do Código Civil relativos às associações.
+Lei nº 10.406 de 2002 atualizada pela pela Lei nº 11.127 de 2005
+Fonte:  http://www.planalto.gov.br/ccivil_03/leis/2002/L10406.htm
+
+(...)
+
+Art. 44. São pessoas jurídicas de direito privado:
+
+I - as associações;
+
+(...)
+
+'''CAPÍTULO II - DAS ASSOCIAÇÕES'''
+
+Art. 53. Constituem-se as associações pela união de pessoas que se organizem para fins não econômicos.
+
+Parágrafo único. Não há, entre os associados, direitos e obrigações recíprocos.
+
+Art. 54. Sob pena de nulidade, o estatuto das associações conterá:
+
+I - a denominação, os fins e a sede da associação;
+
+II - os requisitos para a admissão, demissão e exclusão dos associados;
+
+III - os direitos e deveres dos associados;
+
+IV - as fontes de recursos para sua manutenção;
+
+V – o modo de constituição e de funcionamento dos órgãos deliberativos;
+
+VI - as condições para a alteração das disposições estatutárias e para a dissolução.
+
+VII – a forma de gestão administrativa e de aprovação das respectivas contas.
+
+Art. 55. Os associados devem ter iguais direitos, mas o estatuto poderá instituir categorias com vantagens especiais.
+
+Art. 56. A qualidade de associado é intransmissível, se o estatuto não dispuser o contrário.
+
+Parágrafo único. Se o associado for titular de quota ou fração ideal do patrimônio da associação, a transferência daquela não importará, de per si, na atribuição da qualidade de associado ao adquirente ou ao herdeiro, salvo disposição diversa do estatuto.
+
+Art. 57. A exclusão do associado só é admissível havendo justa causa, assim reconhecida em procedimento que assegure direito de defesa e de recurso, nos termos previstos no estatuto.
+
+Art. 58. Nenhum associado poderá ser impedido de exercer direito ou função que lhe tenha sido legitimamente conferido, a não ser nos casos e pela forma previstos na lei ou no estatuto.
+
+Art. 59. Compete privativamente à assembléia geral:
+
+I – destituir os administradores;
+
+II – alterar o estatuto.
+
+Parágrafo único. Para as deliberações a que se referem os incisos I e II deste artigo é exigido deliberação da assembléia especialmente convocada para esse fim, cujo quorum será o estabelecido no estatuto, bem como os critérios de eleição dos administradores.
+
+Art. 60. A convocação dos órgãos deliberativos far-se-á na forma do estatuto, garantido a 1/5 (um quinto) dos associados o direito de promovê-la.
+
+Art. 61. Dissolvida a associação, o remanescente do seu patrimônio líquido, depois de deduzidas, se for o caso, as quotas ou frações ideais referidas no parágrafo único do art. 56, será destinado à entidade de fins não econômicos designada no estatuto, ou, omisso este, por deliberação dos associados, à instituição municipal, estadual ou federal, de fins idênticos ou semelhantes.
+
+§ 1º Por cláusula do estatuto ou, no seu silêncio, por deliberação dos associados, podem estes, antes da destinação do remanescente referida neste artigo, receber em restituição, atualizado o respectivo valor, as contribuições que tiverem prestado ao patrimônio da associação.
+
+§ 2º Não existindo no Município, no Estado, no Distrito Federal ou no Território, em que a associação tiver sede, instituição nas condições indicadas neste artigo, o que remanescer do seu patrimônio se devolverá à Fazenda do Estado, do Distrito Federal ou da União.
+
+(...)
+
+'''DO NOME EMPRESARIAL'''
+
+Art. 1.155. Considera-se nome empresarial a firma ou a denominação adotada, de conformidade com este Capítulo, para o exercício de empresa.
+
+Parágrafo único. Equipara-se ao nome empresarial, para os efeitos da proteção da lei, a denominação das sociedades simples, associações e fundações.
+
+(...)
+
+
+== Constituição Federal da República ==
+Trechos pertinenets da CF (Constituição Federal).
+fonte: https://www.senado.gov.br/atividade/const/con1988/con1988_06.06.2017/CON1988.asp
+
+=== Artigo 5 ===
+
+Título II - Dos Direitos e Garantias Fundamentais
+
+Capítulo I - Dos Direitos e Deveres Individuais e Coletivos
+
+Art. 5º  Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+
+I -  homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
+
+(...)
+
+XVII -  é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
+
+XVIII -  a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
+
+XIX -  as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+
+XX -  ninguém poderá ser compelido a associar-se ou a permanecer associado;
+
+XXI -  as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
+
+(...)
+
+XXVIII -  são assegurados, nos termos da lei:
+
+    a)  a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;
+
+    b)  o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
+(...)
+
+LXX -  o mandado de segurança coletivo pode ser impetrado por:
+
+    a)  partido político com representação no Congresso Nacional;
+
+    b)  organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
+
+===  Artigo 7 ===
+
+Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+
+(...)
+
+§ 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
+
+
+
+=== Artgo 29 ===
+
+Art. 29.  O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
+
+(...)
+      XII -  cooperação das associações representativas no planejamento municipal;
+(...)
+
+
+=== Artigo 70 ===
+
+Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
+
+Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
+
+=== Artigo 136 ===
+Art. 136. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
+
+§ 1º O decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a serem abrangidas e indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem, dentre as seguintes:
+
+:I -  restrições aos direitos de:
+::a)  reunião, ainda que exercida no seio das associações;
+::b)  sigilo de correspondência;
+::c)  sigilo de comunicação telegráfica e telefônica;
+
+===
+
+Art. 174. Como agente normativo e regulador da atividade econômica, o Estado exercerá, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado.
+
+  § 1º A lei estabelecerá as diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, o qual incorporará e compatibilizará os planos nacionais e regionais de desenvolvimento.
+
+  § 2º A lei apoiará e estimulará o cooperativismo e outras formas de associativismo.
+
+==
+
+Art. 241.  A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos.
