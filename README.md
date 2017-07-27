@@ -1,6 +1,6 @@
-# discusOKBr-assets
+# Backup oficial da OKBr
 
-Subsídios para o site e o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr) e o Diário Oficial da Organização.
+Backup de arquivos publicados no [Diário Oficial da OKBr](http://doo.ok.org.br) e dos demais subsídios para o blog, o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr), etc.
 
 ## Objetivos
 Reter, com integridade e autenticidade garantidos, cópias de dados oficiais, jurídicos e administrativos da OKBr. O repositório tem como finalidade armazenar:
