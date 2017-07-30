@@ -29,10 +29,10 @@ No futuro esse processo será automatizado (CKAN?), mas por hora se for necessá
 
 ### Checksums
 
-Uso **obrigatório em todas as pastas**. Depois de atualizado com novos arquivos, antes de fazer o `git add` da pasta alterada, rodar `base58perl.pl` na pasta. Exemplo:
+Uso **obrigatório em todas as pastas**. Depois de atualizado com novos arquivos, antes de fazer o `git add` da pasta alterada, rodar `sha3-base58.pl` na pasta. Exemplo:
 
 ```sh
 cd docs/okbr-oficial
-../../base58perl.pl
+../../sha3-base58.pl
 ```
 As justificativas detalhadas para o uso deste algoritmo de *checksum*  se encontram [descritas na Wiki](https://github.com/okfn-brasil/discussOKBr-assets/wiki/Checksums).
