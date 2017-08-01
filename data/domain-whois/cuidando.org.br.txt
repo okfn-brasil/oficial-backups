@@ -5,35 +5,38 @@
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2017-06-13 16:01:33 (BRT -03:00)
+%  2017-07-31 21:16:05 (BRT -03:00)
 
 domain:      cuidando.org.br
 owner:       Open Knowledge Foundation Brasil
 ownerid:     19.131.243/0001-97
-responsible: Ariel Kogan
+responsible: Diretor Executivo
 country:     BR
 owner-c:     EVZAL3
 admin-c:     EVZAL3
 tech-c:      GISCR26
 billing-c:   EVZAL3
-nserver:     ns1.digitalocean.com
-nsstat:      20170612 AA
-nslastaa:    20170612
-nserver:     ns2.digitalocean.com
-nsstat:      20170612 AA
-nslastaa:    20170612
+nserver:     d.sec.dns.br
+nsstat:      20170729 AA
+nslastaa:    20170729
+nserver:     f.sec.dns.br
+nsstat:      20170729 AA
+nslastaa:    20170729
+dsrecord:    36683 RSASHA1 527BE9FE7651F2B4E42A12F3AD60E888F9888F4E
+dsstatus:    20170729 DSOK
+dslastok:    20170729
 saci:        yes
 created:     20140306 #12638356
-changed:     20170607
+changed:     20170614
 expires:     20190306
 status:      published
 
 nic-hdl-br:  EVZAL3
 person:      Everton Zanella Alvarenga
-e-mail:      ariel@ok.org.br
+e-mail:      contato@ok.org.br
 country:     BR
 created:     20130309
-changed:     20170607
+changed:     20170731
 
 nic-hdl-br:  GISCR26
 person:      Gisele da Silva Craveiro

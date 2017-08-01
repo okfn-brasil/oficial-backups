@@ -5,26 +5,26 @@
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2017-05-10 15:15:09 (BRT -03:00)
+%  2017-07-31 21:16:07 (BRT -03:00)
 
 domain:      governoaberto.org.br
 owner:       Open Knowledge Foundation Brasil
 ownerid:     19.131.243/0001-97
-responsible: Ariel Kogan
+responsible: Diretor Executivo
 country:     BR
 owner-c:     EVZAL3
 admin-c:     EVZAL3
 tech-c:      PEKRA9
 billing-c:   EVZAL3
 nserver:     a.sec.dns.br
-nsstat:      20170509 AA
-nslastaa:    20170509
+nsstat:      20170728 AA
+nslastaa:    20170728
 nserver:     b.sec.dns.br
-nsstat:      20170509 AA
-nslastaa:    20170509
+nsstat:      20170728 AA
+nslastaa:    20170728
 dsrecord:    13216 RSASHA1 94E0C94E03D38FA15DABF6A9B009E25B15025344
-dsstatus:    20170509 DSOK
-dslastok:    20170509
+dsstatus:    20170728 DSOK
+dslastok:    20170728
 saci:        yes
 created:     20161024 #16267161
 changed:     20170505
@@ -33,10 +33,10 @@ status:      published
 
 nic-hdl-br:  EVZAL3
 person:      Everton Zanella Alvarenga
-e-mail:      everton137@gmail.com
+e-mail:      contato@ok.org.br
 country:     BR
 created:     20130309
-changed:     20170314
+changed:     20170731
 
 nic-hdl-br:  PEKRA9
 person:      Peter Krauss

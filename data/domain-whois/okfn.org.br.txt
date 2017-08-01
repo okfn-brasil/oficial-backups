@@ -5,7 +5,7 @@
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2017-05-10 15:15:10 (BRT -03:00)
+%  2017-07-31 21:16:09 (BRT -03:00)
 
 domain:      okfn.org.br
 owner:       Open Knowledge Foundation Brasil
@@ -17,14 +17,14 @@ admin-c:     EVZAL3
 tech-c:      EVZAL3
 billing-c:   EVZAL3
 nserver:     ns1.digitalocean.com
-nsstat:      20170509 AA
-nslastaa:    20170509
+nsstat:      20170731 AA
+nslastaa:    20170731
 nserver:     ns2.digitalocean.com
-nsstat:      20170509 AA
-nslastaa:    20170509
+nsstat:      20170731 AA
+nslastaa:    20170731
 nserver:     ns3.digitalocean.com
-nsstat:      20170509 AA
-nslastaa:    20170509
+nsstat:      20170731 AA
+nslastaa:    20170731
 saci:        yes
 created:     20130618 #11531769
 changed:     20160618
@@ -33,10 +33,10 @@ status:      published
 
 nic-hdl-br:  EVZAL3
 person:      Everton Zanella Alvarenga
-e-mail:      everton137@gmail.com
+e-mail:      contato@ok.org.br
 country:     BR
 created:     20130309
-changed:     20170314
+changed:     20170731
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br

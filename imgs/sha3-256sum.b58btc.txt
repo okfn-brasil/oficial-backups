@@ -1,4 +1,5 @@
 FBqECkevRQGZzcgT9e8DPL2DotAigxuSJhZHVrbEYha4  Diário_Oficial_da_União_Brazil-v2.jpg
+2swcGLfGTos56yEiEnumtwpqEpgSPpMAeUzQjPiy14Yt  OKBr-ticketsSuporte-usuarios.png
 ECr4ua5ZMVHXoPzR32HXCBb6z6VsisnSiRxQo6FnjP1v  bitcoinAddress-OKBr.png
 3tLf4FFNPr1oVNAxc1UtYAA9unzcAzVty2E5m27SD9FX  br.okfn.org.feedStats2017-05-pizzaUsers.png
 2gBdDRXoLPEhgf9Zd7zw5ujK1qcoPZoendBQJ22VjgqS  computer-984158_1280-v01.jpg
@@ -11,3 +12,7 @@ CcfFqGyoPa2R8siHb5u66hXa6SUW9bypWaNkATmqpVeG  discussOKBr-logo-70px.png
 4Psr9YUjcUd2nz39rgU2ukAED6HNJUrWCTNwwVgbg1fZ  piramide-br-2000-2010.png
 9ngSAaL7UPyg13uqBQ6rB8gTtsAeLufbnb9PV64uTj8y  rio-de-janeiro-809755_1280.jpg
 91pHkASE1HrRcai3TCEEjfuY5zNBzqBLS3nVvJuTMYQp  theme-myTest.png
+Fa32m6zagxtKxTnRJDmFtH8eYbfN57AM96GTaCKaHtLJ  w3c-dwbp-benefits-icoLinkability.png
+8zZATNTx51nXU9gxcarTKUSnm2zTPKf6U7Ba6zg5jTFY  w3c-dwbp-benefits-icoTrust.png
+47V3qLN6Xn7YiZuTUpP4zbW8h7hCMZsAHg6vgvHQQr8y  w3c-dwbp-benefits-icos.png
+389xzTmD8WgU6ZDk6XioWGYzDfaZFFpMnRGxfL86U1Bp  w3c-dwbp-benefits.png
