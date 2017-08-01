@@ -2,9 +2,9 @@ Domain Name: ESCOLADEDADOS.ORG
 Registry Domain ID: D168887437-LROR
 Registrar WHOIS Server:
 Registrar URL: http://www.enom.com
-Updated Date: 2016-11-01T14:04:47Z
+Updated Date: 2017-06-16T15:20:02Z
 Creation Date: 2013-06-06T21:53:41Z
-Registry Expiry Date: 2017-06-06T21:53:41Z
+Registry Expiry Date: 2018-06-06T21:53:41Z
 Registrar Registration Expiration Date:
 Registrar: eNom, Inc.
 Registrar IANA ID: 48
@@ -55,7 +55,7 @@ Name Server: DNS1.REGISTRAR-SERVERS.COM
 Name Server: DNS2.REGISTRAR-SERVERS.COM
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2017-05-10T18:14:08Z <<<
+>>> Last update of WHOIS database: 2017-08-01T08:54:18Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
