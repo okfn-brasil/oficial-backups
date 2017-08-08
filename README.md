@@ -1,6 +1,6 @@
 # Backup oficial da OKBr
 
-Backup de arquivos publicados no [Diário Oficial da OKBr](http://doo.ok.org.br) e dos demais subsídios para o blog, o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr), etc.
+Backup de arquivos publicados no [Diário Oficial da OKBr](http://doo.ok.org.br) e dos demais subsídios para o blog, o [DiscussOKBr](https://discuss.okfn.org/c/local-groups/okbr), etc.  Repositório público para preservação digital e **garantia de autenticidade** dos documentos e demais fontes oficiais da OKBr.
 
 ## Objetivos
 Servir de referência autoritativa para consultas, *downloads* e auditoria dos documentos da e sob tutela da OKBr.
