@@ -1,18 +1,18 @@
 Domain,plannedOwner,status,registrantOrganization,creationDate,expirationDate,changedDate,ownerContact,NotesOnPending
-cienciaaberta.net,OKBR/Ciencia,quase regular,private,2013-05-12,2018-05-12,2016-05-14,Rafael Pezzi,"por ser uma parceria aparentemente bem formalizada, onde era previsto e direito de propriedade apenas do parceiro (mas no caso não é um coletivo institucional formal, é pessoa física)."
-cuidando.org.br,OKBR/USP,regular,OKBR,2014-03-06,2019-03-06,2017-04-07,Everton Z. Alvarenga,encaminhado
+cienciaaberta.net,OKBR/Ciencia,incompativel,private,2013-05-12,2018-05-12,2016-05-14,Rafael Pezzi,"por ser uma parceria aparentemente bem formalizada, onde era previsto e direito de propriedade apenas do parceiro (mas no caso não é um coletivo institucional formal, é pessoa física)."
+cuidando.org.br,OKBR/USP,regular,OKBR,2014-03-06,2019-03-06,2017-04-07,Diretor OKBr,encaminhado
 dadosAbertos.org,OKBR,regular,secret,2017-05-04,2017-04-04,2017-04-04,,incluso posteriormente
 dialogando.org,OKBR,irregular,private,2014-06-30,2017-06-30,2016-07-06,Edgar Alvarenga,o registrant não é a OKBR.
 escolaDeDados.org,OKBR/Escola,irregular,secret,2013-06-06,2018-06-06,2017-06-16,Natália,Foi repassado para o Marco Túlio.
 euvoto.org,OKBR,irregular,OKBR,2015-02-04,2018-02-04,2017-02-08,Everton Alvarenga,"no registrant não consta o CNPJ da OKBR nem dados corretos (ex. endereço do CNPJ), e os demais contatos não foram atualizados."
-gastosabertos.org,OKBR,meio regular,private,2012-05-02,2017-05-02,2016-09-18,Everton Z. Alvarenga,falta constar o CNPJ no Registrant e todos os contatos precisam ser atualizados.
-governoaberto.org.br,OKBR/USP,regular,OKBR,2016-10-24,2018-10-24,,Everton Z. Alvarenga,
-mira.org.br,OKBR,regular,OKBR,2014-04-01,2019-04-01,2017-04-07,Everton Z. Alvarenga,feito
-mootiro.org,OKBR/Tel,irregular,private,2010-04-13,2018-04-13,,Edgar Alvarenga,
-oficial.news,OKBR,regular,OKBR,2017-03-24,2018-03-24,,,feito
+gastosabertos.org,OKBR,quase regular,OKBR,2012-05-02,2017-05-02,2016-09-18,Diretor OKBr,falta constar o CNPJ no Registrant e todos os contatos precisam ser atualizados.
+governoaberto.org.br,OKBR/USP,regular,OKBR,2016-10-24,2018-10-24,2017-07-31,Diretor OKBr,
+mira.org.br,OKBR,regular,OKBR,2014-04-01,2019-04-01,2017-04-07,Diretor OKBr,feito
+mootiro.org,OKBR/Tel,irregular,private,2010-04-13,2018-04-13,2017-05-05,Diretor OKBr,
+oficial.news,OKBR,regular,OKBR,2017-03-24,2018-03-24,2017-04-28,Diretor OKBr,feito
 ok.org.br,OKBR,regular,OKBR,2014-09-22,2018-04-15,2017-04-07,Everton Z. Alvarenga,feito
-okfn.org.br,OKBR,regular,OKBR,2013-06-18,2020-06-18,,,feito
+okfn.org.br,OKBR,regular,OKBR,2013-06-18,2020-06-18,2017-07-31,Diretor OKBr,feito
 paraOndeFoioMeuDinheiro.org.br,OKBR/NossaSaoPaulo,regularizando,NossaSaoPaulo,2012-10-23,2017-10-25,2016-10-25,Claudia Cabilio,"de terceiros, mas não consta nenhum documento a ""sociedade no dominio"", da OKBR com o Instituto São Paulo Sustentável."
-queremossaber.org.br,OKBR/Markun,regularizando,private,2011-11-01,,,Pedro Markun,"de terceiros mas não consta nenhum documento a ""sociedade no dominio"", da OKBR com a Jucamaria Educação e Cultura."
-vaimudar.org,OKBR,meio regular,OKBR,2014-05-10,2018-10-24,,,"falta constar o CNPJ no Registrant, e atualizar todos os contatos."
-votolegal.org.br,OKBR/AppCivico,regular,OKBR,2016-05-12,2019-05-12,2017-04-07,,
+queremossaber.org.br,OKBR/Markun,regularizando,private,2011-11-01,2017-11-01,2016-02-04,Pedro Markun,"de terceiros mas não consta nenhum documento a ""sociedade no dominio"", da OKBR com a Jucamaria Educação e Cultura."
+vaimudar.org,OKBR,quase regular,OKBR,2014-05-10,2018-10-24,2017-05-19,,"falta constar o CNPJ no Registrant, e atualizar todos os contatos."
+votolegal.org.br,OKBR/AppCivico,regular,OKBR,2016-05-12,2019-05-12,2017-04-07,Diretor OKBr,
