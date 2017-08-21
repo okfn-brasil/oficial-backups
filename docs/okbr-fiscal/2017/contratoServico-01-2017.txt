@@ -1,0 +1,246 @@
+﻿Contrato de Prestação de Serviço à OKBR
+
+
+contratoServico-01-2017
+
+
+Open Knowledge Brasil, abreviada por OKBr,  instituição privada sem fins lucrativos, com sede e foro na cidade de São Paulo, inscrita no CNPJ sob o nº 19.131.243/0001-97, vem, através deste instrumento, como CONTRATANTE neste ato representada por seu Diretor Executivo, e
+Brasil Plural Serviços S/C Ltda., inscrita no CNPJ sob o nº 04.992.880/0001-80, como CONTRATADA, neste ato representada por seu preposto, Peter de Padua Krauss, inscrito no RG de São Paulo sob  o nº 9.473.331-4, resolvem celebrar o presente CONTRATO DE PRESTAÇÃO DE SERVIÇO, mantendo observância ao termo Adesão-2017/01 (Termo de Adesão ao Serviço de Suporte) do preposto da CONTRATANTE à CONTRATADA.
+1. OBJETO
+1.1. O objeto do presente contrato é a prestação de serviços de suporte delimitados pelo “Termo de Referência dos Serviços da Equipe de Suporte da OKBr”, https://suporte.ok.org.br/tree/v1.0.1​ , parte integrante do presente contrato, que prevê o atendimento a tickets:
+1.1.1. Atendimento ao ticket 3 (https://suporte.ok.org.br/ticket/3), “Regularização dos domínios da OKBr”.
+1.1.2. Atendimento ao ticket 4 (https://suporte.ok.org.br/ticket/4), “Revisão, atualização e redistribuição dos serviços entre os servidores-web da OKBr”.
+2. OBRIGAÇÕES DA CONTRATADA
+2.1. Realização, dentro do prazo, dos serviços fixados pelas cláusulas 1.1.1 e 1.1.2 acima, e descritas com apoio do Anexo-A1.
+2.2. Apresentação e publicação de um relatório final demonstrando a realização dos serviços prestados, e preenchimento das planilhas de horas consumidas.
+3. OBRIGAÇÕES DA CONTRATANTE
+3.1. Pagamento de 40% do valor do contrato no ato da assinatura do contrato, e pagamento da segunda parcela na entrega final das obrigações previstas pela cláusula 2. 
+3.2. Certificar-se que os serviços foram cumpridos em conformidade com o previsto.
+4. PRAZOS, VALOR E PAGAMENTO
+4.1. O presente Contrato terá início a contar da sua assinatura seguida de publicação resumida no discuss.ok.org.br, e perdurará pelo prazo máximo de 2 meses para a entrega dos serviços, por parte da CONTRATADA.
+4.2. O valor total para os serviços é, preço com alíquota “0” (zero) de ICMS, R$ 760,00 (setecentos e sessenta reais), conforme elementos discriminados e totalizados nos Anexos A1 e A2, já acrescido da taxa administrativa e impostos. A primeira parcela, de 40% do valor (R$300), deve ser paga no ato assinatura.
+4.3. Prazo para pagamento da segunda parcela, máximo de 20 dias corridos a partir da entrega e aceitação dos serviços.  
+4.4. Dados Bancários: Banco Bradesco SA, agência 0031-0, conta Nº 0002176-813:24.
+5. PENALIDADES
+5.1. O descumprimento, no todo ou em parte, das obrigações estabelecidas neste Contrato,
+5.1.1. sujeitará a CONTRATADA às seguintes penalidades, com garantida a prévia defesa: 
+1. advertência; 
+2. multa de 10% (dez por cento) sobre o valor do contrato; 
+3. devolução da primeira parcela. 
+5.1.2. sujeitará a CONTRATANTE a processo administrativo.
+6. FORO
+6.1. Fica eleito o Foro da Comarca de São Paulo/SP, para dirimir eventuais conflitos originados pelo presente contrato, com renúncia a quaisquer outros por mais privilegiados que possam ser.
+E por estarem, assim, justos e contratados, assinam o presente em três vias, de igual teor e forma.
+
+
+
+
+
+
+
+
+São Paulo, 16 de maio de 2017.
+
+
+
+
+
+
+
+
+
+
+__________________________________                _________________________________________
+Peter Krauss                                        Ariel Kogan
+                                                Diretor Executivo da OKBr
+
+
+
+
+
+
+                                                     _________________________________________
+                                        Luciana Paolucci
+                                                Diretora da Brasil Plural
+
+
+
+
+
+
+________________
+
+
+
+
+ANEXO A1
+
+
+A1.1. Serviços relativos ao tiket#3 
+Os Serviços para a “Regularização dos domínios da OKBr” consistem da regularização dos nomes de domínio listados na tabela abaixo, com estimativas de tempo para verificação e revisão estimados na coluna “minutos”.
+Domínio
+	status
+	minutos
+	
+
+	cienciaaberta.net
+	quase regular
+	10
+	
+
+	cuidando.org.br
+	condicionado
+	10
+	
+
+	dialogando.org
+	irregular
+	20
+	
+
+	escolaDeDados.org
+	irregular
+	20
+	
+
+	euvoto.org
+	irregular
+	20
+	
+
+	gastosabertos.org
+	meio regular
+	15
+	
+
+	governoaberto.org.br
+	condicionado
+	20
+	
+
+	mira.org.br
+	quase regular
+	10
+	
+
+	mootiro.org
+	irregular
+	20
+	
+
+	oficial.news
+	regular
+	0
+	
+
+	ok.org.br
+	quase regular
+	15
+	
+
+	okfn.org.br
+	regular
+	0
+	
+
+	paraOndeFoioMeuDinheiro.org.br
+	indefinido
+	20
+	
+
+	queremossaber.org.br
+	indefinido
+	20
+	
+
+	vaimudar.org
+	meio regular
+	15
+	
+
+	votolegal.org.br
+	condicionado
+	20
+	
+
+	
+
+	TOTAL:
+	235
+	minutos
+	
+
+	
+
+	4
+	hs
+	Conforme o status da verificação já realizada, os serviços consistirão de:
+* revisar e redigitar metadados do WHOIS do domínio junto à autoridade registradora, e conferir se não houve impacto e se a mudança foi realizada.
+* comunicar-se com a comunidade OKBr para os casos “indefinido” e “condicionado”, onde o direito de propriedade aguarda posição de terceira parte e/ou manifestações na comunidade.
+* conferir situação e impacto nas caixas de email para os casos ok.org.br e okfn.org.br.
+Ao final dos serviços atualizar a tabela dominios.csv e republicar os textos da pasta domain-whois. Somados os serviços finais requerem mais 1 hora de trabalho.
+Foi também solicitado um texto correspondene para a descrição de compromissos e procedimentos no Regimento Interno da OKBr, traduzindo-se resumidamente a em especificação dos serviços realizados.
+
+
+
+
+
+
+
+
+A1.2. Serviços relativos ao tiket#4 
+Os Serviços para a “Revisão, atualização e redistribuição dos serviços entre os servidores-web da OKBr” tem seu planejamento baseado na tabela servidores.csv, resumida abaixo.
+
+
+IP_label
+	IP
+	RAM_GB
+	Disco_GB
+	dev.euvoto.org
+	45.55.181.61
+	2
+	40
+	euvoto.org
+	107.170.140.126
+	2
+	40
+	okfnbr01
+	146.185.161.184
+	0,5
+	20
+	okfnbr02
+	188.226.132.191
+	2
+	20
+	okfnbr03
+	198.211.121.7
+	1
+	30
+	okfnbr04
+	37.139.25.4
+	2
+	30
+	okfnbr05
+	95.85.20.19
+	1
+	30
+	
+
+Cada um dos domínios listados no apêndice A1.1 são hospedados em um dos servidores acima, alguns com apenas páginas, outros com serviços ainda ativos.
+Foram estimadas ~6 horas de serviço:
+* Avaliar situação e atividade de cada um dos servidores.
+* Desativar servidor inativo, criando ou não backups, conforme necessidade.
+* Atualizar sistema (UBUNTU v12 e v14 para v16 LTS) e ferramentas, quando for necessário.
+* Acrescentar ou atualizar Let’s Encrypt (HTTPS) onde for necessário.
+* Criar vínculos no DNS ou em API Gateway para redirecionar serviços.
+* Gerar avisos e relatórios sobre redirecionamento e uso correto dos servidores.
+
+
+ANEXO A2
+A empreitada prevista pelo presente contrato teve sua duração e seu valor estimados confirme a seguinte metodologia:
+* duração: acomodação do total de horas líquidas, estimadas no apêndice A1, ao longo da agenda da CONTRATADA e dando o devido tempo de resposta para o diálogo com a comunidade. 
+* valor: foi fixado como valor de referência da OKBr, para hora de serviço técnico de consultoria, o valor de R$60/h.
+* taxa de administração e impostos: 15%.
+TOTALIZANDO:   (5h+6h)*(R$60/h)*1,15 = R$760.
+_______________________________________________________________________
+contato@okfn.org.br    •     br.okfn.org
